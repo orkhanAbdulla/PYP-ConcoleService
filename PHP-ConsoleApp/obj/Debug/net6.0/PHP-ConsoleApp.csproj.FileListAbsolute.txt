@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\PYP\PHP-ConsoleApp\PHP-ConsoleApp\bin\Debug\net6.0\PHP-ConsoleApp.exe
+C:\Users\hp\Desktop\PYP\PHP-ConsoleApp\PHP-ConsoleApp\bin\Debug\net6.0\PHP-ConsoleApp.deps.json
+C:\Users\hp\Desktop\PYP\PHP-ConsoleApp\PHP-ConsoleApp\bin\Debug\net6.0\PHP-ConsoleApp.runtimeconfig.json
+C:\Users\hp\Desktop\PYP\PHP-ConsoleApp\PHP-ConsoleApp\bin\Debug\net6.0\PHP-ConsoleApp.dll
+C:\Users\hp\Desktop\PYP\PHP-ConsoleApp\PHP-ConsoleApp\bin\Debug\net6.0\PHP-ConsoleApp.pdb
+C:\Users\hp\Desktop\PYP\PHP-ConsoleApp\PHP-ConsoleApp\obj\Debug\net6.0\PHP-ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\PYP\PHP-ConsoleApp\PHP-ConsoleApp\obj\Debug\net6.0\PHP-ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\PYP\PHP-ConsoleApp\PHP-ConsoleApp\obj\Debug\net6.0\PHP-ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\PYP\PHP-ConsoleApp\PHP-ConsoleApp\obj\Debug\net6.0\PHP-ConsoleApp.AssemblyInfo.cs
+C:\Users\hp\Desktop\PYP\PHP-ConsoleApp\PHP-ConsoleApp\obj\Debug\net6.0\PHP-ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\PYP\PHP-ConsoleApp\PHP-ConsoleApp\obj\Debug\net6.0\PHP-ConsoleApp.dll
+C:\Users\hp\Desktop\PYP\PHP-ConsoleApp\PHP-ConsoleApp\obj\Debug\net6.0\refint\PHP-ConsoleApp.dll
+C:\Users\hp\Desktop\PYP\PHP-ConsoleApp\PHP-ConsoleApp\obj\Debug\net6.0\PHP-ConsoleApp.pdb
+C:\Users\hp\Desktop\PYP\PHP-ConsoleApp\PHP-ConsoleApp\obj\Debug\net6.0\PHP-ConsoleApp.genruntimeconfig.cache
+C:\Users\hp\Desktop\PYP\PHP-ConsoleApp\PHP-ConsoleApp\obj\Debug\net6.0\ref\PHP-ConsoleApp.dll
